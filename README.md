@@ -1,1 +1,9 @@
-# cse210-02
+# Hilo
+
+# Description
+
+# Project structure
+
+# Required software
+
+# Team members
